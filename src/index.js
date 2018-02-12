@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', function() {
     })
 
   function createNewUser(username, character, food, job, animal){
-    fetch ('http://localhost:3000/api/v1/users', {
+    fetch ('https://gamedethrones-server.herokuapp.com/api/v1/users', {
       method: 'post',
       headers: {
         'Content-Type': 'application/json',
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   function getData(user){
 
-    fetch ('http://localhost:3000/api/v1/story_stages')
+    fetch ('https://gamedethrones-server.herokuapp.com/api/v1/story_stages')
       .then(response => response.json())
       .then(data => displayStage(data, user))
   }
@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   function persistStory(user, object_id){
-    fetch ('http://localhost:3000/api/v1/user_stories', {
+    fetch ('https://gamedethrones-server.herokuapp.com/api/v1/user_stories', {
       method: 'post',
       headers: {
         'Content-Type': 'application/json',
