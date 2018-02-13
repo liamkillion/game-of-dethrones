@@ -9,19 +9,22 @@ We utilized Ruby, Javascript and HTML/CSS to repurpose previously available cont
 API COMPONENT  
 ####################################################
 ####################################################
+
 https://github.com/yassimortensen/mod-3-project-api
 ####################################################
 ####################################################
 
 Thanks to Flatiron School and the following websites for help building this project!
 http://www.pajiba.com/
+
 http://beautifuldeath.com/
+
 http://gameofthrones.wikia.com/
+
 https://www.w3schools.com/
+
 https://css-tricks.com/
+
 https://nnattawat.github.io/flip/
+
 http://www.cursors-4u.com/
-
-
-# game-of-dethrones
-# game-of-dethrones
