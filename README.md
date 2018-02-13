@@ -21,7 +21,3 @@ https://www.w3schools.com/
 https://css-tricks.com/
 https://nnattawat.github.io/flip/
 http://www.cursors-4u.com/
-
-
-# game-of-dethrones
-# game-of-dethrones
